@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Medicine register</string>
+    <string name="medicament_image">Medicament image</string>
+    <string name="active_substance">Aktivna\nsupstanca</string>
+    <string name="sactive_substance_ratio">Omjer\naktivne supstance</string>
+    <string name="recomended_daily_dose">Preporučena\ndnevna doza</string>
+    <string name="search">Pretraži</string>
+    <string name="medicament_registry">Registar lijekova</string>
+    <string name="save_icon">Save icon</string>
+    <string name="saved_medicaments">Sačuvani lijekovi</string>
+    <string name="no_saved_medicaments">Nema sačuvanih lijekova</string>
+</resources>
